@@ -1,0 +1,1 @@
+[{"constant":false,"inputs":[],"name":"increment","outputs":[],"payable":false,"type":"function"},{"constant":true,"inputs":[],"name":"getIteration","outputs":[{"name":"","type":"uint256"}],"payable":false,"type":"function"},{"inputs":[],"payable":false,"type":"constructor"}]
